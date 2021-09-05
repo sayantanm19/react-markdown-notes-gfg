@@ -1,0 +1,15 @@
+body {
+    background-color:yellow;
+}
+
+.markdown-editor, .rendered-output {
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+
+.markdown-textarea, .rendered-html-output  {
+    height: 60vh;
+    width: 100%;
+    overflow: auto;
+}
